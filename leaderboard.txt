@@ -1,0 +1,10 @@
+Ethan: 1620
+Joe: 1170
+Ethan: 970
+Ethan: 880
+Ethan: 790
+1: 750
+Joe: 730
+Ethan: 580
+Lewis: 390
+Ethan: 380
